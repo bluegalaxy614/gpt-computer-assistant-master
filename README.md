@@ -58,10 +58,6 @@ To run gpt-computer-assistant, simply type
 computerassistant
 ```
 
-
-https://github.com/onuratakan/gpt-computer-assistant/assets/41792982/26ae3624-e619-44d6-9b04-f39cf1ac1f8f
-
-
 ### Local text-to-speech | NEW
 <details>
 
